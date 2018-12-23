@@ -1,2 +1,2 @@
 print("Good-bye")
-print("O my God")
+print("Oh my God")
