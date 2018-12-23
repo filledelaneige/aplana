@@ -1,0 +1,2 @@
+print("Good-bye")
+print("Oh my God")
