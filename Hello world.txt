@@ -1,3 +1,3 @@
-print("Hello world")
-print("Hello github")
-print("Hi hi hi")
+print("Hello world;")
+print("Hello github;")
+print("Hi hi hi;")
